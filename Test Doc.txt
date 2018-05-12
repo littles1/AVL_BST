@@ -1,0 +1,120 @@
+Inserts new data into tree, rebalances tree as input is recieved (99 to stop): 
+level 1:                                 11                                                               
+---------------------------------------------------------------------
+
+level 1:                                 11                                                               
+level 2:                 1                                                               
+---------------------------------------------------------------------
+
+level 1:                                 1                                                               
+level 2:                 1                               11                               
+---------------------------------------------------------------------
+
+level 1:                                 1                                                               
+level 2:                 1                               11                               
+level 3:                                         1                               
+---------------------------------------------------------------------
+
+level 1:                                 1                                                               
+level 2:                 1                               11                               
+level 3:                                         1               11               
+---------------------------------------------------------------------
+
+level 1:                                 1                                                               
+level 2:                 1                               11                               
+level 3:         1                               1               11               
+---------------------------------------------------------------------
+
+level 1:                                 1                                                               
+level 2:                 1                               11                               
+level 3:         1                               1               11               
+level 4:                                             1                       
+---------------------------------------------------------------------
+
+level 1:                                 1                                                               
+level 2:                 1                               11                               
+level 3:         1                               1               11               
+level 4:                                     1       1                       
+---------------------------------------------------------------------
+
+level 1:                                 1                                                               
+level 2:                 1                               11                               
+level 3:         1                               1               11               
+level 4:                                     1       1               11       
+---------------------------------------------------------------------
+
+level 1:                                 1                                                               
+level 2:                 1                               11                               
+level 3:         1               1               1               11               
+level 4:     1                                       1               11       
+---------------------------------------------------------------------
+
+level 1:                                 1                                                               
+level 2:                 1                               11                               
+level 3:         1               1               1               11               
+level 4:     1                               1       1               11       
+---------------------------------------------------------------------
+
+level 1:                                 1                                                               
+level 2:                 1                               11                               
+level 3:         1               1               1               11               
+level 4:     1                               1       1               11       
+level 5:                                               1                   
+---------------------------------------------------------------------
+
+
+ Enter character to delete (999 to stop): 
+level 1:                                 1                                                               
+level 2:                 1                               11                               
+level 3:                         1               1               11               
+level 4:                                             1               11       
+
+
+ Enter character to delete (999 to stop): 
+level 1:                                 11                                                               
+level 2:                 1                               11                               
+level 3:                         1                               11               
+level 4:                             1                                       
+
+
+ Enter character to delete (999 to stop): 
+level 1:                                 11                                                               
+level 2:                 1                               11                               
+level 3:                         1                               11               
+
+
+ Enter character to delete (999 to stop): 
+level 1:                                 11                                                               
+level 2:                 1                               11                               
+level 3:                         1                               11               
+
+
+ Enter character to delete (999 to stop): 
+level 1:                                 11                                                               
+level 2:                 1                               11                               
+level 3:                         1                               11               
+
+
+ Enter character to delete (999 to stop): 
+level 1:                                 11                                                               
+level 2:                 1                               11                               
+level 3:                         1                               11               
+
+
+ Enter character to delete (999 to stop): 
+level 1:                                 11                                                               
+level 2:                 1                               11                               
+level 3:                         1                               11               
+
+
+ Enter character to delete (999 to stop): 
+level 1:                                 11                                                               
+level 2:                 1                               11                               
+level 3:                         1                               11               
+
+
+ Enter character to delete (999 to stop): 
+level 1:                                 11                                                               
+level 2:                 1                               11                               
+level 3:                         1                               11               
+
